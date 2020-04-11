@@ -8,6 +8,7 @@ public class Main {
         firstList.delete("Liza");
         System.out.println(firstList.count);
         firstList.show();
+        firstList.delete("");
 
     }
 }
